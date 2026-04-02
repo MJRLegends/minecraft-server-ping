@@ -59,13 +59,6 @@
             <type>jar</type>
         </dependency>
 
-        <dependency>
-            <groupId>org.yaml</groupId>
-            <artifactId>snakeyaml</artifactId>
-            <version>2.6</version>
-            <scope>compile</scope>
-        </dependency>
-        
         <!-- Needed to handle Json in MCPing methods -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
